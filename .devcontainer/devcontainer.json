@@ -1,0 +1,34 @@
+
+{
+    "name": "Restaurant Site Project",
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "customizations": {
+      "codespaces": {
+        "extensions": [
+          "negokaz.live-server-preview",
+          "esbenp.prettier-vscode",
+          "MS-vsliveshare.vsliveshare"
+        ]
+      },
+      "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash",
+        "terminal.integrated.shellArgs.linux": ["-l"],
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.wordWrap": "on",
+        "editor.codeActionsOnSave": {
+          "source.fixAll.eslint": true
+        },
+        "prettier.singleQuote": true,
+        "prettier.trailingComma": "all",
+        "prettier.arrowParens": "always",
+        "prettier.jsxSingleQuote": true,
+        "prettier.jsxBracketSameLine": true,
+        "prettier.printWidth": 80,
+        "prettier.tabWidth": 2,
+        "prettier.useTabs": false,
+        "git.autofetch": true
+      }
+    }
+  }
