@@ -1,6 +1,42 @@
 #img1{
-    width: 500px;
-    top: 500px;
+    width: 290px;
+    top: 100px;
     position: absolute;
-    right: 400px;
+   
+
 }
+#img2{
+  width:390px;
+  
+  position:absolute;
+  left:40%;
+  
+}
+#img3{
+  width: 290px;
+    top: 100px;
+    position: absolute;
+    right:850px;
+}
+#img4{
+  width: 290px;
+    top: 400px;
+    position: absolute;
+    
+}
+#img5{
+  width: 200px;
+    top: 400px;
+    position: absolute;
+    left: 1000px;
+}
+#img6{
+  width: 200px;
+    top: 400px;
+    position: absolute;
+    left: 1300px;
+}
+body{
+    background-color:bisque;
+}
+
