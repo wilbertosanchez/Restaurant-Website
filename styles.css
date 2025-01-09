@@ -1,8 +1,9 @@
 #img1{
-    width: 290px;
-    top: 100px;
+  width: 290px;
+    top: 112px;
     position: absolute;
-   
+    height: 260px;
+    left: 727px;
 
 }
 #img2{
@@ -14,21 +15,24 @@
 }
 #img3{
   width: 290px;
-    top: 100px;
+    top: 112px;
     position: absolute;
-    right:850px;
+    right: 850px;
+    height:256px;
 }
 #img4{
   width: 290px;
-    top: 400px;
-    position: absolute;
-    
+  top: 372px;
+  position: absolute;
+  height: 100;
+  left: 727px;
 }
 #img5{
-  width: 200px;
+  width: 290px;
     top: 400px;
     position: absolute;
     left: 1000px;
+    height:10;
 }
 #img6{
   width: 200px;
@@ -39,4 +43,5 @@
 body{
     background-color:bisque;
 }
+
 
