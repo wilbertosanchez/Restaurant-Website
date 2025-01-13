@@ -53,7 +53,6 @@ body{
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
   margin: auto;
-  text-align: center;
   font-family: arial;
 }
 
@@ -66,7 +65,7 @@ body{
   border: none;
   outline: 0;
   padding: 12px;
-  color: white;
+  color: bisque;
   background-color: #000;
   text-align: center;
   cursor: pointer;
@@ -77,3 +76,6 @@ body{
 .card button:hover {
   opacity: 0.7;
 }
+#lunch{
+  color:blue;
+  font-size:100px;
